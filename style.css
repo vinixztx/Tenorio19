@@ -1,0 +1,43 @@
+/*Comentários*/
+
+*{
+    width:auto;
+    height:auto;
+    background-color: rgb(237, 229, 237);
+}
+body{
+    padding: 10px;
+    width: 80%;
+    height: 100%;
+  
+}
+header{
+    color: rgb(0, 0, 0);
+    border: 05px;
+    border-style: dashed;
+    padding: 5px;
+    
+}
+.Formação, .Experiencias{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Formação, .Experiencias h2{
+    padding: 5px;
+    border: 05px;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Formação, .Experiencias li{
+    color: rgb(251, 154, 154);
+    font-style: oblique;
+}
+img{
+    width: 10%;
+    border-radius: 260%;
+}
+footer{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    border: 05px;
+}
